@@ -1,0 +1,13 @@
+name: 2023-288-McMahon_D-RNASeq-Mouse-Circadian-Rhythm
+title: 2023-288-McMahon_D-RNASeq-Mouse-Circadian-Rhythm
+username: creativedatasolutions
+account: creativedatasolutions
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10646480
+bundleId: 7981331
+url: https://creativedatasolutions.shinyapps.io/2023-288-McMahon_D-RNASeq-Mouse-Circadian-Rhythm/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: analysis.R|app_GOOD.R|NOTES.md|test/app.R|test-hyperlinks-form-submission.R|www/Greek_uc_delta.svg|.idea
